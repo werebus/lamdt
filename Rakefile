@@ -2,7 +2,7 @@
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
 ssh_user       = "werebus_lamdt@ssh.phx.nearlyfreespeech.net"
 ssh_port       = "22"
-document_root  = "/home/public/"
+document_root  = "/home/public/www.lookatmedothis.com"
 rsync_delete   = true
 rsync_args     = ""  # Any extra arguments to pass to rsync
 deploy_default = "rsync"
