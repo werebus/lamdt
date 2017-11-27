@@ -1,3 +1,4 @@
 .git
 rsync-exclude
 Rakefile
+README.md
